@@ -1,14 +1,14 @@
-#Hi there! 👋 I'm Luis
--🚀 Passionate about web development and technology. I'm currently a Web Application Development (DAW) student, and I love building functional and well-structured applications.
+# Hi there! 👋 I'm Luis
+- 🚀 Passionate about web development and technology. I'm currently a Web Application Development (DAW) student, and I love building functional and well-structured applications.
 
--💻 About Me
--🔭 Currently working on a web application to manage a factory, including raw materials and products.
--🌱 Improving my skills in Java, JSP, JavaScript, and databases.
--👯 Open to collaborating on projects where I can contribute my knowledge and learn from others.
--🤔 Looking to enhance my approach to software architecture and best development practices.
--🎨 I focus on aesthetics and usability in my projects, using global CSS styles without IDs.
--✈️ In March, I’m going on Erasmus, an exciting experience full of new challenges and learning opportunities!
--📫 How to Reach Me
--📩 Email: Luiskas22@gmail.com 
--💼 LinkedIn: https://www.linkedin.com/in/luis-lópez-sánchez-205a05178
+- 💻 About Me
+- 🔭 Currently working on a web application to manage a factory, including raw materials and products.
+- 🌱 Improving my skills in Java, JSP, JavaScript, and databases.
+- 👯 Open to collaborating on projects where I can contribute my knowledge and learn from others.
+- 🤔 Looking to enhance my approach to software architecture and best development practices.
+- 🎨 I focus on aesthetics and usability in my projects, using global CSS styles without IDs.
+- ✈️ In March, I’m going on Erasmus, an exciting experience full of new challenges and learning opportunities!
+- 📫 How to Reach Me
+- 📩 Email: Luiskas22@gmail.com 
+- 💼 LinkedIn: [linkedIn](https://www.linkedin.com/in/luis-lópez-sánchez-205a05178)
 
