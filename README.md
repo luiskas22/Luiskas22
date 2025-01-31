@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there! 👋 I'm Luis
+🚀 Passionate about web development and technology. I'm currently a Web Application Development (DAW) student, and I love building functional and well-structured applications.
 
-<!--
-**luiskas22/Luiskas22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 About Me
+🔭 Currently working on a web application to manage a factory, including raw materials and products.
+🌱 Improving my skills in Java, JSP, JavaScript, and databases.
+👯 Open to collaborating on projects where I can contribute my knowledge and learn from others.
+🤔 Looking to enhance my approach to software architecture and best development practices.
+🎨 I focus on aesthetics and usability in my projects, using global CSS styles without IDs.
+✈️ In March, I’m going on Erasmus, an exciting experience full of new challenges and learning opportunities!
+📫 How to Reach Me
+📩 Email: Luiskas22@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/luis-lópez-sánchez-205a05178
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
