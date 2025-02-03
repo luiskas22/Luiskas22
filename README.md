@@ -3,7 +3,7 @@
 
 - 💻 About Me
 - 🔭 Currently working on a web application to manage a factory, including raw materials and products.
-- 🌱 Improving my skills in Java, JSP, JavaScript, and databases.
+- 🌱 Improving my skills in Java, JavaScript, and databases.
 - 👯 Open to collaborating on projects where I can contribute my knowledge and learn from others.
 - 🤔 Looking to enhance my approach to software architecture and best development practices.
 - 🎨 I focus on aesthetics and usability in my projects, using global CSS styles without IDs.
