@@ -7,7 +7,7 @@
 - 👯 Open to collaborating on projects where I can contribute my knowledge and learn from others.
 - 🤔 Looking to enhance my approach to software architecture and best development practices.
 - 🎨 I focus on aesthetics and usability in my projects, using global CSS styles without IDs.
-- ✈️ In March, I’m going on Erasmus, an exciting experience full of new challenges and learning opportunities!
+- ✈️ Currently, I’m in  Erasmus in Portugal, an exciting experience full of new challenges and learning opportunities!
 - 📫 How to Reach Me
 - 📩 Email: Luiskas22@gmail.com 
 - 💼 LinkedIn: [linkedIn](https://www.linkedin.com/in/luis-lópez-sánchez-205a05178)
